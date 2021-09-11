@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a85299d9-7dd1-4f27-9577-8c409c2fadd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/craco.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/jsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/HeaderBg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/HeaderBg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/HeaderBg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/categories/dessin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/categories/peinture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/categories/photographie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/categories/sculture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/assets/products/monalisa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/data/Navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/data/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Footer/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Header/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Header/components/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Header/components/CreateAccountModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Header/components/LogInModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Header/components/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/layout/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/checkout/CheckoutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/checkout/PaymentSucessModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/home/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/home/components/CTA.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/home/components/Categories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/home/components/Content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/home/components/Slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/products/ProductPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/products/components/ProductCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/pages/products/components/ProductListing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/actions/productsActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/actions/shoppingActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/constants/action-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/constants/shopping-types.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/reducers/productReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/reducers/shoppingReducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/tailwind.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/webapp/DivineArts/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commMicroservices" beforeDir="false" afterPath="$PROJECT_DIR$/E-commMicroservices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commMicroservices/inventory-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/E-commMicroservices/inventory-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commMicroservices/order-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/E-commMicroservices/order-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-commMicroservices/product-service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/E-commMicroservices/product-service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRODUCT-SERVICEv3/src/main/java/com/mila/productservicev3/model/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/PRODUCT-SERVICEv3/src/main/java/com/mila/productservicev3/model/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRODUCT-SERVICEv3/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PRODUCT-SERVICEv3/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/java/com/example/apigatewayservicev3/ApiGatewayServiceV3Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/api-gateway-serviceV3/src/main/java/com/example/apigatewayservicev3/ApiGatewayServiceV3Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-serviceV3/src/main/java/com/example/orderservicev3/model/OrderLineItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-serviceV3/src/main/java/com/example/orderservicev3/model/OrderLineItems.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xv9hjA6nWeqnC4ZEJRMfhYOW1D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a85299d9-7dd1-4f27-9577-8c409c2fadd2" name="Changes" comment="" />
+      <created>1631224816940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631224816940</updated>
+      <workItem from="1631224821428" duration="48000" />
+    </task>
+    <servers />
+  </component>
+</project>

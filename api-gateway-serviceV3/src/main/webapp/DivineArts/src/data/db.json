@@ -1,0 +1,48 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Flowers in Metal Vase",
+            "href": "#",
+            "imageSrc": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJ0fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+            "imageAlt": "Monalisa Looking at you.",
+            "price": "$6,900",
+            "artist": "Abraham Mignon",
+            "detail": "Martin Van Buren (/væn ˈbjʊərən/ van BYUR-ən; born Maarten van Buren (Dutch pronunciation: [ˈmaːrtə(n) vɑn ˈbyːrə(n)]); December 5, 1782 – July 24, 1862) was an American lawyer and politician who served as the eighth president of the United States from 1837 to 1841. A founder of the Democratic Party, he had previously served as the ninth governor of New York, the tenth United States secretary of state, and the eighth vice president of the United States. He won the 1836 presidential election with the endorsement of popular outgoing President Andrew Jackson and the organizational strength of the Democratic Party. He was the third incumbent vice president to be elected president, and the last until 1988. He lost his 1840 reelection bid to the Whig nominee, William Henry Harrison, thanks in part to the poor economic conditions surrounding the Panic of 1837. Later in his life, Van Buren emerged as an elder statesman and an important anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election."
+        },
+        {
+            "id": 2,
+            "name": "President Martin Van Buren",
+            "href": "#",
+            "imageSrc": "https://images.unsplash.com/photo-1585076799833-08afc3d50d74?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=394&q=80",
+            "imageAlt": "Monalisa Looking at you.",
+            "price": "$390",
+            "artist": "Van Der Sar",
+            "detail": "Martin Van Buren December 5, 1782 – July 24, 1862) was an American lawyer and politician who served as the eighth president of the United States from 1837 to 1841. A founder of the Democratic Party, he had previously served as the ninth governor of New York, the tenth United States secretary of state, and the eighth vice president of the United States. He won the 1836 presidential election with the endorsement of popular outgoing President Andrew Jackson and the organizational strength of the Democratic Party. He was the third incumbent vice president to be elected president, and the last until 1988. He lost his 1840 reelection bid to the Whig nominee, William Henry Harrison, thanks in part to the poor economic conditions surrounding the Panic of 1837. Later in his life, Van Buren emerged as an elder statesman and an important anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election."
+        
+        },
+        {
+            "id": 3,
+            "name": "The Ridderzaal of the Binnenhof",
+            "href": "#",
+            "imageSrc": "https://images.unsplash.com/photo-1586536989825-9944e9986918?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=642&q=80",
+            "imageAlt": "Testing.",
+            "price": "$4,800",
+            "artist": "Rijksmuseum",
+            "detail": "Martin Van Buren (/væn ˈbjʊərən/ van BYUR-ən; born Maarten van Buren (Dutch pronunciation: [ˈmaːrtə(n) vɑn ˈbyːrə(n)]); December 5, 1782 – July 24, 1862) was an American lawyer and politician who served as the eighth president of the United States from 1837 to 1841. A founder of the Democratic Party, he had previously served as the ninth governor of New York, the tenth United States secretary of state, and the eighth vice president of the United States. He won the 1836 presidential election with the endorsement of popular outgoing President Andrew Jackson and the organizational strength of the Democratic Party. He was the third incumbent vice president to be elected president, and the last until 1988. He lost his 1840 reelection bid to the Whig nominee, William Henry Harrison, thanks in part to the poor economic conditions surrounding the Panic of 1837. Later in his life, Van Buren emerged as an elder statesman and an important anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election."
+        
+        },
+        {
+            "id": 4,
+            "name": "Interior of a Cathedral",
+            "href": "#",
+            "imageSrc": "https://images.unsplash.com/photo-1578301978162-7aae4d755744?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=325&q=80",
+            "imageAlt": "Testing.",
+            "price": "$2,600",
+            "artist": "Samuel Prout",
+            "detail": "Martin Van Buren (/væn ˈbjʊərən/ van BYUR-ən; born Maarten van Buren (Dutch pronunciation: [ˈmaːrtə(n) vɑn ˈbyːrə(n)]); December 5, 1782 – July 24, 1862) was an American lawyer and politician who served as the eighth president of the United States from 1837 to 1841. A founder of the Democratic Party, he had previously served as the ninth governor of New York, the tenth United States secretary of state, and the eighth vice president of the United States. He won the 1836 presidential election with the endorsement of popular outgoing President Andrew Jackson and the organizational strength of the Democratic Party. He was the third incumbent vice president to be elected president, and the last until 1988. He lost his 1840 reelection bid to the Whig nominee, William Henry Harrison, thanks in part to the poor economic conditions surrounding the Panic of 1837. Later in his life, Van Buren emerged as an elder statesman and an important anti-slavery leader who led the Free Soil Party ticket in the 1848 presidential election."
+        
+        }
+        
+    ]
+  }
